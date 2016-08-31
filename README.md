@@ -1,2 +1,2 @@
 # node-lox-ws-api
-Node JS WebSocket Loxone™ API
+Web Socket Loxone™ API for Node JS

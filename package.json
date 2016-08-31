@@ -1,0 +1,27 @@
+{
+  "name": "node-lox-ws-api",
+  "version": "0.1.0",
+  "description": "Web Socket Loxone™ API",
+  "main": "lib/API.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alladdin/node-lox-ws-api.git"
+  },
+  "keywords": [
+    "Loxone",
+    "API",
+    "WebSocket"
+  ],
+  "author": "Ladislav Dokulil <alladdin@zemres.cz>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alladdin/node-lox-ws-api/issues"
+  },
+  "homepage": "https://github.com/alladdin/node-lox-ws-api#readme",
+  "dependencies" : {
+      "websocket" : "*"
+  }
+}
