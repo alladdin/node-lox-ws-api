@@ -1,6 +1,6 @@
 {
   "name": "node-lox-ws-api",
-  "version": "0.2.8",
+  "version": "0.2.9",
   "description": "Web Socket Loxone™ API",
   "main": "lib/API.js",
   "scripts": {
@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/alladdin/node-lox-ws-api#readme",
   "dependencies": {
-      "websocket": "*"
+      "websocket": "^1.0.24"
   },
   "engines": {
       "node": ">=4.5.0"
