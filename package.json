@@ -16,14 +16,16 @@
     "WebSocket"
   ],
   "author": "Ladislav Dokulil <alladdiyn@zemres.cz>",
-  "contributors": ["Patrik Mayer <patrik.mayer@codm.de> <https://www.codm.de)"],
+  "contributors": [
+    "Patrik Mayer <patrik.mayer@codm.de> <https://www.codm.de)"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/codm/node-lox-ws-api/issues"
   },
   "homepage": "https://github.com/codm/node-lox-ws-api#readme",
   "dependencies": {
-    "websocket": "^1.0.28"
+    "websocket": "^1.0.31"
   },
   "engines": {
     "node": ">=4.2.6"
